@@ -6,7 +6,7 @@
 
 We have four members in the group, including: 
 
-1. Duxiong Li
+1. [Duxiong Li](https://github.com/Duxiong-Li)
 
 2. Zhigang Ma
 
