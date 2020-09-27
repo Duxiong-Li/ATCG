@@ -14,4 +14,4 @@ We have four members in the group, including:
 
 4. Jjingya Du
 
-5. Jing Jia
+5. [Jing Jia](https://github.com/jiajing0816)
