@@ -12,6 +12,6 @@ We have four members in the group, including:
 
 3. Dashuai Kong
 
-4. Jjingya Du
+4. [Jingya Du](https://github.com/dujingya666)
 
 5. [Jing Jia](https://github.com/jiajing0816)
